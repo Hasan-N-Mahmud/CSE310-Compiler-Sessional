@@ -1,0 +1,8 @@
+ERROR: Line no 1: <ERROR> Invalid Header File <stdio.p> found
+Line no 2: TOKEN <Header File> <stdio.h> included
+ERROR: Line no 3: <ERROR> Invalid Header File <stdio.> found
+Line no 4: TOKEN <LCURL> Lexeme { found
+ERROR: Line no 4: <ERROR> Global scope ERROR <stdio.h> found
+Line no 4: TOKEN <RCURL> Lexeme } found
+TOTAL ERROR: 3
+TOTAL LINES: 4
